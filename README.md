@@ -1,6 +1,6 @@
 # SBI Financial Performance Analysis (2020–2024)
 
-This project analyzes the financial performance of State Bank of India (SBI) using Power BI and Excel.  
+This project analyzes the financial performance of State Bank of India (SBI) using and Excel.  
 It includes key metrics such as revenue growth, profit trends, NPA ratios, deposits, advances, and overall performance insights.
 
 ---
@@ -26,8 +26,10 @@ It includes key metrics such as revenue growth, profit trends, NPA ratios, depos
 
 ---
 
-## 🖼️ Dashboard Preview
-<img width="541" height="356" alt="image" src="https://github.com/user-attachments/assets/a87a195f-a982-41ed-aa8d-96e7d5f01f80" />
+## 📊 Dashboard Preview
+
+![SBI Dashboard](Dashboard_Screenshots/dashboard.png)
+
 
 
 ---
